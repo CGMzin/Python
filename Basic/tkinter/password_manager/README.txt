@@ -1,0 +1,1 @@
+Before use the code, change de path of the logo and the output files
